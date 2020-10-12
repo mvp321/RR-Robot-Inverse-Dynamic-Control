@@ -1,0 +1,8 @@
+-I"G:\My Drive\Manthan\Work\3.Job\Full Time\Portfolio\Projects\Robotics\8. Dynamics and Control of SCARA Robot\Simulation\RR Robot Control"
+-I"G:\My Drive\Manthan\Work\3.Job\Full Time\Portfolio\Projects\Robotics\8. Dynamics and Control of SCARA Robot\Simulation\RR Robot Control\RR_rsim_rtw"
+-I"C:\Program Files\MATLAB\R2020a\rtw\c\src\rapid"
+-I"C:\Program Files\MATLAB\R2020a\rtw\c\rsim"
+-I"C:\Program Files\MATLAB\R2020a\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2020a\extern\include"
+-I"C:\Program Files\MATLAB\R2020a\simulink\include"
+-I"C:\Program Files\MATLAB\R2020a\rtw\c\src"
